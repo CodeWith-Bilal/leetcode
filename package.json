@@ -1,0 +1,12 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "Leetcode daily questions",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  }
+}

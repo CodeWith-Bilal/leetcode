@@ -37,3 +37,5 @@ class Solution {
         return leftSum + rightSum;
     }
 }
+// Time Complexity: O(n log n) where n is the number of elements in the array. This is due to the recursive nature of the divide and conquer approach.
+// Space Complexity: O(log n) for the recursion stack space.

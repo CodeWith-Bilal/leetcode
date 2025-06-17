@@ -19,4 +19,4 @@ class Solution(object):
         
         return max_diff
 # Example usage:
-# nums = [7, 1, 5, 4]
+# nums = [7, 1, 5, 4] https://x.com/gay_pro26135

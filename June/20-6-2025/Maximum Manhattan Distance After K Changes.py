@@ -65,3 +65,5 @@
         max_distance = max(max_distance, abs(path[i + 1][0]) + abs(path[i + 1][1]) + bonus)
 
     return max_distance
+# Example usage:
+s = "NSEW"  
